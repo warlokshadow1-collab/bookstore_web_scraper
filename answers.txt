@@ -1,0 +1,37 @@
+Pages scraped / books: 100
+
+1. Most expensive: The Death of Humanity: and the Case for Life (£58.11)
+2. Cheapest: Patience (£10.16)
+3. Average price: £34.56
+4. 5-star books: 19
+5. In stock: 100.0%
+6. Top 5 highest-rated:
+                                                                            Title  Price  Rating
+                                 Princess Between Worlds (Wide-Awake Princess #5)  13.34       5
+Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)  13.61       5
+                                                                   Sophie's World  15.94       5
+                                                                           Thirst  17.27       5
+                                                                      Set Me Free  17.46       5
+7. Cheapest 5-star: Princess Between Worlds (Wide-Awake Princess #5) (£13.34)
+
+CEO £100 challenge:
+                                                                              Title  Price  Rating
+                                                                     Sophie's World  15.94       5
+                                            Untitled Collection: Sabbath Poems 2014  14.27       4
+                                                                             Thirst  17.27       5
+  Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)  13.61       5
+                                   Princess Between Worlds (Wide-Awake Princess #5)  13.34       5
+                                                                           Patience  10.16       3
+Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed  14.02       4
+Total cost: £98.61 | Total rating score: 31
+
+Books per star level:
+Rating
+1    22
+2    19
+3    22
+4    18
+5    19
+
+Evidence 1: 19.0% are 5-star, avg £30.01 vs £34.56 overall.
+Evidence 2: 12 of 19 five-star books are below average price.
